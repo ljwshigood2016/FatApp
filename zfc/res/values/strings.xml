@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="target_weight">weight</string>
+    <string name="info_not_non">Please enter complete information</string>
+    <string name="jqdl">Pls do more exercise</string>
+    <string name="srgddfz">Pls intake more protein</string>
+    <string name="average_visceral_fat">The average visceral fat</string>
+    <string name="aleary_new_day">It is the latest date.</string>
+    <string name="the_average_bone">The average\nbone</string>
+    <string name="little_high">Little Hight</string>
+    <string name="little_low">Little Low</string>
+    <string name="calories_per_day">Burnin calories per day</string>
+    <string name="fat">Fat</string>
+    <string name="fat_pecent">Fat</string>
+    <string name="water">Water</string>
+    <string name="muscle">muscle</string>
+    <string name="visceral">visceral</string>
+    <string name="bone">bone</string>
+    <string name="suggest_weight">Your ideal weight：</string>
+    <string name="piandi">Low</string>
+    <string name="pianshou">Lean</string>
+    <string name="pianpang">Chubby</string>
+    <string name="nomal">Normal</string>
+    <string name="wuxiao">N/A</string>
+    <string name="gaoyu">Over</string>
+    <string name="diyu">Low</string>
+    <string name="piangao">Over</string>
+    <string name="biaozhun">Normal</string>
+    <string name="feipang">Obese</string>
+    <string name="jidu_feipang">Severely Obese</string>
+    <string name="cancel">Cancel</string>
+    <string name="capture">Choose from Camera</string>
+    <string name="modify_photo">Choose from photos</string>
+    <string name="app_name">Touch Scale</string>
+    <string name="shake_cheng">Shake before steping</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="nomal_data">Normal value:</string>
+    <string name="you_data">Your value:</string>
+    <string name="give_tip">Suggestion:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="home">Home</string>
+    <string name="information">Refer info</string>
+    <string name="name">Name</string>
+    <string name="sex">Gender</string>
+    <string name="birth">Age</string>
+    <string name="weight">Target weight</string>
+    <string name="weight_info">weight(kg)</string>
+    <string name="height">Height</string>
+    <string name="about_me">About Touch</string>
+    <string name="product_info">Other products</string>
+    <string name="id_delete">Determined to delete the user, its historical data will also be deleted</string>
+    <string name="delete_user">Delete user</string>
+    <string name="suggest">Pls keep it</string>
+    <string name="connect_success">Device connected</string>
+    <string name="nian">Year</string>
+    <string name="yue">Month</string>
+    <string name="danwei">Unit:</string>
+    <string name="gallery">Choose photo</string>
+    <string name="about_touch">About Touch</string>
+    <string name="back">back</string>
+    <string name="user_info">User info</string>
+    <string name="ok">ok</string>
+    <string name="add_user">New user</string>
+    <string name="complete">Ok</string>
+    <string name="infomation">Refer info</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="fat_value">Fat</string>
+    <string name="fat_value_pecent">Fat(%)</string>
+    <string name="calorie_value">Calorie</string>
+    <string name="calorie_percent_value">Calorie(kcal/日)</string>
+    <string name="water_percent_value">Water%</string>
+    <string name="water_value">Water(%)</string>
+    <string name="muscle_value">Muscle</string>
+    <string name="muscle_percent_value">Muscle%</string>
+    <string name="visceral_fat_value">Visceral Fat</string>
+     <string name="visceral_fat_percent_grade">Grade</string>
+    <string name="visceral_fat_percent_value">Visceral Fat</string>
+    <string name="bone_value">Bone</string>
+    <string name="bone_percent_value">Bone(kg)</string>
+
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="height_danwei">
+        <item>cm</item>
+    </string-array>
+
+</resources>

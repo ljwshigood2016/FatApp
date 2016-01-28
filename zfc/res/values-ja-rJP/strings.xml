@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="info_not_non">完全な情報を入力してください</string>
+    <string name="jqdl">運動を強化してください</string>
+    <string name="srgddfz"> たんぱく質を多めに摂取してください</string>
+    <string name="average_visceral_fat">平均内臓脂肪レベル</string>
+    <string name="suggest_weight">あなたの理想的な体重は </string>
+    <string name="aleary_new_day">最新の日にちです</string>
+    <string name="fat_pecent">体脂肪率</string>
+    <string name="the_average_bone">骨量平均\n値(Kg)</string>
+    <string name="little_low">少し低い</string>
+    <string name="little_high">少し高い</string>
+    <string name="calories_per_day">一日あたりの消費カロリー</string>
+    <string name="piandi">少し低い</string>
+    <string name="pianshou">痩せ</string>
+    <string name="pianpang">軽肥満</string>
+    <string name="nomal">正常</string>
+    <string name="wuxiao">無効</string>
+    <string name="gaoyu">高い</string>
+    <string name="diyu">低い</string>
+    <string name="piangao">やや高い</string>
+    <string name="biaozhun">標準</string>
+    <string name="feipang">肥満</string>
+    <string name="jidu_feipang">高度肥満</string>
+    <string name="cancel">キャンセル</string>
+    <string name="capture">カメラから</string>
+    <string name="modify_photo">アルバムから</string>
+    <string name="app_name">Touch Scale</string>
+    <string name="shake_cheng">体重計に乗る前に携帯電\n話を振ってください</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="nomal_data">標準数値:</string>
+    <string name="you_data">あなたの数値:</string>
+    <string name="give_tip">参考意見:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="home">ホーム</string>
+    <string name="information">参考情報</string>
+    <string name="name">氏名</string>
+    <string name="sex">性别</string>
+    <string name="birth">年齢</string>
+    <string name="weight">目標体重</string>
+    <string name="target_weight">体重</string>
+    <string name="weight_info">体重(kg)</string>
+    <string name="height">身長</string>
+    <string name="product_info">その他商品情報</string>
+    <string name="about_me">Touchについて</string>
+    <string name="id_delete">該当ユーザーを削除すると、そのすべてのデータも削除されます</string>
+    <string name="delete_user">削除</string>
+    <string name="suggest">非常に健康</string>
+    <string name="connect_success">接続完了</string>
+    <string name="nian">年</string>
+    <string name="yue">月</string>
+    <string name="danwei">単位:</string>
+    <string name="gallery">写真</string>
+    <string name="about_touch">关于Touch</string>
+    <string name="back">戻る</string>
+    <string name="user_info">ユーザー情報</string>
+    <string name="ok">確認</string>
+    <string name="add_user">新規ユーザー</string>
+    <string name="complete">確認</string>
+    <string name="infomation">参考情報</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="fat_value">体脂肪率</string>
+    <string name="fat_value_pecent">体脂肪率%</string>
+    <string name="calorie_value">基礎代謝量</string>
+    <string name="calorie_percent_value">基礎代謝量(kcal/日)</string>
+    <string name="water_value">体水分率</string>
+    <string name="water_percent_value">体水分率%</string>
+    <string name="muscle_value">筋肉率</string>
+    <string name="muscle_percent_value">筋肉率%</string>
+    <string name="visceral_fat_value">内臓脂肪レベル</string>
+      <string name="visceral_fat_percent_grade">レベル</string>
+    <string name="visceral_fat_percent_value">内臓脂肪レベル</string>
+    <string name="bone_value">推定骨量</string>
+    <string name="bone_percent_value">推定骨量(kg)</string>
+
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="height_danwei">
+        <item>cm</item>
+    </string-array>
+
+</resources>

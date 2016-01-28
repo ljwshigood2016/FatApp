@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="info_not_non">请输入完整的信息</string>
+    <string name="jqdl">加强锻炼</string>
+    <string name="srgddfz">摄入更多蛋白质</string>
+    <string name="average_visceral_fat">平均内脏脂肪含量</string>
+    <string name="suggest_weight">您的理想体重是: </string>
+    <string name="aleary_new_day">已经是最新日期了</string>
+    <string name="the_average_bone">骨骼平均\n值(Kg)</string>
+    <string name="little_high">高一点</string>
+    <string name="little_low">稍微低</string>
+    <string name="calories_per_day">每日平均消费卡路里</string>
+    <string name="fat">脂肪</string>
+    <string name="water">水分</string>
+    <string name="fat_pecent">体脂肪率</string>
+    <string name="muscle">肌肉</string>
+    <string name="visceral">内脏</string>
+    <string name="bone">骨骼</string>
+    <string name="nomal">标准</string>
+    <string name="jidu_feipang">极度肥胖</string>
+    <string name="biaozhun">标准</string>
+    <string name="feipang">肥胖</string>
+    <string name="piangao">偏高</string>
+    <string name="diyu">低于</string>
+    <string name="gaoyu">高于</string>
+    <string name="product_info">其他产品信息</string>
+    <string name="piandi">偏低</string>
+    <string name="pianshou">偏瘦</string>
+    <string name="pianpang">偏胖</string>
+    <string name="cancel">取消</string>
+    <string name="capture">拍照</string>
+    <string name="modify_photo">从图库中选择</string>
+    <string name="app_name">Touch Scale</string>
+    <string name="shake_cheng">摇一摇上秤哦</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="nomal_data">正常数值:</string>
+    <string name="you_data">您的数值:</string>
+    <string name="give_tip">温馨建议:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="home">主页</string>
+    <string name="information">参考信息</string>
+    <string name="name">姓名</string>
+    <string name="sex">性别</string>
+    <string name="birth">年龄</string>
+    <string name="weight">目标体重</string>
+     <string name="target_weight">体重</string>
+    <string name="weight_info">体重(kg)</string>
+    <string name="height">身高</string>
+    <string name="about_me">关于我们</string>
+    <string name="id_delete">确定删除该用户,其历史数据也将会被删除</string>
+    <string name="delete_user">删除账户</string>
+    <string name="suggest">继续保持</string>
+    <string name="connect_success">成功连接蓝牙设备</string>
+    <string name="nian">年</string>
+    <string name="yue">月</string>
+    <string name="danwei">单位:</string>
+    <string name="gallery">图片选择</string>
+    <string name="about_touch">关于Touch</string>
+    <string name="back">返回</string>
+    <string name="user_info">用户信息</string>
+    <string name="ok">确认</string>
+    <string name="add_user">新用户</string>
+    <string name="complete">完成</string>
+    <string name="infomation">参考信息</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="fat_value">脂肪含量</string>
+    <string name="fat_value_pecent">脂肪含量%</string>
+    <string name="calorie_value">卡路里</string>
+    <string name="calorie_percent_value">卡路里(kcal/日)</string>
+    <string name="water_value">水分含量</string>
+    <string name="water_percent_value">水分含量%</string>
+    <string name="muscle_value">肌肉含量</string>
+    <string name="muscle_percent_value">肌肉含量%</string>
+    <string name="visceral_fat_value">内脏脂肪含量</string>
+     <string name="visceral_fat_percent_grade">等级</string>
+    <string name="visceral_fat_percent_value">内脏脂肪含量</string>
+    <string name="bone_value">骨骼含量</string>
+    <string name="bone_percent_value">骨骼含量(kg)</string>
+
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="height_danwei">
+        <item>cm</item>
+    </string-array>
+
+</resources>

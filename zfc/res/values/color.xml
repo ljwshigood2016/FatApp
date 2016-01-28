@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_dark">#a4a6a5</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="color_blue">#2a5b83</color>
+    <color name="color_dark_start">#bfbfbf</color>
+    <color name="color_dark_end">#fbfbfb</color>
+
+</resources>
